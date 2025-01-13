@@ -12,10 +12,10 @@ The experiment works by:
 
 Models tested:
 - GPT-3.5 Turbo (OpenAI)
-- GPT-4 (OpenAI)
+- GPT-4o (OpenAI)
 - O1 (OpenAI)
 - Gemini Pro 1.5 (Google)
-- Claude 3 Sonnet (Anthropic)
+- Claude 3.5 Sonnet (Anthropic)
 
 ## Setup
 
