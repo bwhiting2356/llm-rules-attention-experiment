@@ -13,6 +13,7 @@ The experiment works by:
 Models tested:
 - GPT-3.5 Turbo (OpenAI)
 - GPT-4 (OpenAI)
+- O1 (OpenAI)
 - Gemini Pro 1.5 (Google)
 - Claude 3 Sonnet (Anthropic)
 
